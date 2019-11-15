@@ -1,3 +1,3 @@
 # interoperability-resources
 
-This repository contains the quick-start guides on Interoperability Layer components for Health Information Exchange architecture.
+This repository contains the quick-start guides/sample services for Interoperability Layer components of Health Information Exchange architecture.
